@@ -17,7 +17,7 @@ This Repository holds all of my personal projects
     -
     -
     -
-4. Tableau Projects
+3. Tableau Projects
     -
     -
     -
