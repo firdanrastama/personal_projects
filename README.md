@@ -12,7 +12,7 @@ This Repository holds all of my personal projects
 1. Python Data Science Projects
     - [Customer Churn Prediction](https://github.com/firdanrastama/Customer-Churn-Prediction)
     - [Customer Analytics](https://github.com/firdanrastama/Customer-Analytics)
-    -
+    - [Time Series Analysis](https://github.com/firdanrastama/Time-Series-Analysis)
 2. SQL Projects
     -
     -
