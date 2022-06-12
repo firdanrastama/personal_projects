@@ -13,3 +13,7 @@ This Repository holds all of my personal projects
     - [Customer Churn Prediction](https://github.com/firdanrastama/Customer-Churn-Prediction)
     - [Customer Analytics](https://github.com/firdanrastama/Customer-Analytics)
     - [Time Series Analysis](https://github.com/firdanrastama/Time-Series-Analysis)
+
+
+Linkedin: [firdanrastama](https://www.linkedin.com/in/firdanrastama/)
+Email: firdanrastama@gmail.com
