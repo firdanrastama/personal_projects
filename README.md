@@ -16,4 +16,5 @@ This Repository holds all of my personal projects
 
 
 Linkedin: [firdanrastama](https://www.linkedin.com/in/firdanrastama/)
+
 Email: firdanrastama@gmail.com
